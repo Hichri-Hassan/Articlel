@@ -2,7 +2,7 @@
 Main Orchestration Module for Trading Predictor with Baseline Comparison
 ====================================================================
 
-Enhanced version that includes baseline strategy evaluation and comparison
+it includes baseline strategy evaluation and comparison
 with machine learning models for comprehensive performance analysis.
 """
 
@@ -1150,4 +1150,5 @@ def main():
     return pipeline_results
 
 if __name__ == "__main__":
+
     results = main()
