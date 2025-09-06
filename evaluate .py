@@ -724,4 +724,5 @@ def generate_evaluation_summary(results_df, best_model_name=None, save_path='eva
     for line in console_lines:
         print(line)
     
+
     return summary_lines
